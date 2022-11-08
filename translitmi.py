@@ -1,7 +1,7 @@
 import telebot
 from transliterate import translit
 
-token = '5579106297:AAF1yXX9OytWQXNF7LMClZO8P8S3li8sz3w'
+token = ''
 bot = telebot.TeleBot(token)
 
 # Приветствие при старте
